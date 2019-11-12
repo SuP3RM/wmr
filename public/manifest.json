@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "RSNA Meeting Request",
+  "name": "RSNA's Web Meeting Request Form",
   "icons": [
     {
       "src": "favicon.ico",
