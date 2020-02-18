@@ -201,7 +201,7 @@ export default function ControlledOpenSelect() {
               labelPlacement="start"
             />
             <h4>If yes, please forward an attendee list including their contact information to <em>Kara Barker</em> at
-  (<a href="mailto:travel@rsna.org">travel@rsna.org)</a>.</h4>
+  (<a href="mailto:travel@company.org">travel@company.org)</a>.</h4>
           </RadioGroup>
           {/* Editable table to give more information (in HousingTravelTable.js) */}
         </FormControl>

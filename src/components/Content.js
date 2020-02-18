@@ -63,7 +63,7 @@ export default function OutlinedTextFields() {
   return (
     <section>
       <form noValidate autoComplete="off">
-        <h2>Please complete the following information and return to <em>Sandy Darland</em> (<a href="mailto:sdarland@rsna.org">sdarland@rsna.org</a>).</h2>
+        <h2>Please complete the following information and return to <em>Sandy Darland</em> (<a href="mailto:person@company.org">person@company.org</a>).</h2>
         <div className={classes.container}>
           <h3>Meeting Information</h3>
           {/* Contact Person */}

@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        RSNA Headquarters Meeting Request Web Form
+        Headquarters Meeting Request Web Form
       </header>
       <Content/>
       <Rooms/>
